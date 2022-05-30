@@ -1,0 +1,67 @@
+
+.navbar0{
+    margin-left: 13rem;
+    color: rgb(134, 135, 65);
+    }
+    .navbar1{
+        margin-left: 22rem;
+        }
+        
+        .navbar02{
+            background-color: rgb(199, 184, 166);
+            position: sticky;
+            font-family: 'Shadows Into Light', cursive;
+        }
+    .video{
+margin-left: .5rem;
+    }
+    .bag{
+        background-color: rgb(199, 184, 166);}
+        .btn1{
+width:8%;
+height: 10%;
+margin-left: 12%;
+margin-top: -4%;
+position: relative;
+}
+.fontsi{
+    font-size: 250%;
+}
+.textclass{
+/* margin: 2rem; */
+margin-left: 6rem;
+margin-right: 6rem;
+font-family: 'Shadows Into Light', cursive;
+
+
+ }
+   .readmore{
+margin-left: 40rem;
+margin-top: 0%;   }   
+.textcentre{
+    display: inline;
+text-align: center;
+margin-top: 4rem;
+text-decoration: underline;
+background-color: rgb(179, 212, 212);
+}  
+.imgscl{
+    width: 100%;
+    height: auto;
+    margin-right: 1px;
+    margin-top: 47px;
+    margin-left: 8px;
+  }
+  .slidepara{
+     margin-bottom: 800px; 
+     margin-left: -900px;
+  }
+  .formctr{
+  }
+  .lastnam{
+      margin-left: 40%;
+      margin-top: -11%;
+  }
+  .resvg{
+      margin-left: 130px;
+  }
